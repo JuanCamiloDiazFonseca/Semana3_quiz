@@ -15,7 +15,7 @@
 
 # Resultados de Pruebas Funcionales
 
-## 🧪 Prueba 1 — Login válido
+## Prueba 1 — Login válido
 
 **Request**
 
@@ -44,7 +44,7 @@ Existe una violación del principio de mínima exposición de datos sensibles.
 
 **Riesgo: Alto**
 
-## 🧪 Prueba 2 — SQL Injection
+## Prueba 2 — SQL Injection
 
 **Request**
 
@@ -80,7 +80,7 @@ Existe una vulnerabilidad crítica de SQL Injection.
 
 **Riesgo: Crítico**
 
-## 🧪 Prueba 3 — Registro con contraseña débil
+## Prueba 3 — Registro con contraseña débil
 
 **Requests**
 
@@ -118,4 +118,5 @@ No se aplican reglas de complejidad, caracteres especiales ni políticas de segu
 La política de contraseñas es débil y representa un riesgo de seguridad.
 
 **Riesgo: Medio**
+
 
